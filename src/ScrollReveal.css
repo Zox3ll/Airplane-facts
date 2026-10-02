@@ -1,0 +1,8 @@
+/* Size, weight and spacing come from the element the reveal is rendered as */
+.scroll-reveal-text {
+  display: block;
+}
+
+.word {
+  display: inline-block;
+}
